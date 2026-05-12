@@ -12,10 +12,6 @@ SAGE (Sandbox-Abstracted Grounded Experience) learns embodied navigation behavio
 
 > Before an embodied agent steps into the open world, SAGE lets it rehearse: not in a perfect digital twin, but in a compact sandbox where physics, semantics, and experience can be distilled into useful navigation priors.
 
-> We hope this repository is more than a reproduction package. It is an invitation to build agents that can imagine, plan, and then move with a little more grounded confidence.
-
-
-
 ## Preparations
 
 #### Dataset
